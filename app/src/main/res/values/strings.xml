@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">alcohol-gasoline</string>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="info_label">Veja a melhor opção para abastecer o seu automóvel</string>
+    <string name="alcohol_price_label">Preço do Álcool</string>
+    <string name="gasoline_price_label">Preço da Gasolina</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="result_label">Nenhum resultado</string>
 </resources>
